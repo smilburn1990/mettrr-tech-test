@@ -14,7 +14,7 @@
 
 > Welcome...
 
-> First of all I want you to create a branch from master with the naming convention - "{name}/mettrr-tech-test".
+> First of all I want you to create a branch from master with the naming convention - "{your name}/mettrr-tech-test".
 
 > Here at Mettrr, we use the airbnb linter on our code base to ensure that we have consistency and good structure in all out JS files. Your first task is to start up the dev server and fix the issues, preventing you from development.
 
